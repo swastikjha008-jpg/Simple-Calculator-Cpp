@@ -1,6 +1,6 @@
 # 🧮 React Calculator v2
 
-A modern, responsive calculator built using **React (v18)** with a clean UI and smooth interactions.
+A modern, responsive calculator built using **React (v18)** with a clean UI and smooth interactions.With clean layout from the previous base C++ base calculator
 This project is the upgraded version (**v2**) of my original C++ calculator, now transformed into a web-based application.
 
 ---
